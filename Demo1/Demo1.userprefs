@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Mountain\Scripts\StartGameOver.cs">
+    <Files>
+      <File FileName="Assets\Mountain\Scripts\StartGameOver.cs" Line="21" Column="65" />
+      <File FileName="Assets\Mountain\Scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Mountain\Scripts\onGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Mountain\Scripts\cannon.cs" Line="1" Column="1" />
+      <File FileName="Assets\VolumetricLines\ExampleScenes\ExampleScripts\ShotBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\VolumetricLines\Scripts\VolumetricLineBehavior.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

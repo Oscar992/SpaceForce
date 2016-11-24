@@ -1,0 +1,8 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Salir">
+			<method name="onClick"/>
+			<method name="onClick"/>
+		</type>
+	</assembly>
+</linker>
